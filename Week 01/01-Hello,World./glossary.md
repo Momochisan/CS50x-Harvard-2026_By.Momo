@@ -25,5 +25,35 @@
 | Operating System | ระบบปฏิบัติการของคอมพิวเตอร์
 | Success | การทำงานสำเร็จ
 
+
+## 📃 English Translation (ฉบับแปลภาษาอังกฤษ)
+
+
+### 🧩 Vocabulary `#include <stdio.h>`
+| Term | Meaning |
+|------|-------|
+| Preprocessor | A component that handles instructions beginning with `#` before **compilation**.
+| Compile | The process of translating code into machine language.
+| Compiler | A program that translates source code.
+| Header File | A file that contains function declarations, usually with a `.h` extension.
+| Warning | A message indicating a potential problem; the program can still run, but there may be a risk.
+| Error | A problem that prevents the program from running correctly.
+| Function | A set of instructions that performs a specific task, such as `printf()`.
+| Standard Library | A collection of standard functions provided by the **C language** for programmers to use.
+
+
+
 - - -
 
+### 🧩 Vocabulary `int main(void)`
+| Term | Meaning |
+|------|-------|
+| Main Function | The main function of a program and the starting point of its execution.
+| Return Type | The data type of the value returned by a function.
+| Return | Sending a value back from a function.
+| Input | Data passed into a function.
+| Parameters | Variables used to receive input in a function.
+| Operating System | The system software that manages and controls a computer.
+| Success | A state indicating that the program has completed successfully.
+
+- - -
