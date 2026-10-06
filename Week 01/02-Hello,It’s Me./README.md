@@ -8,4 +8,4 @@ This program displays the message "Hello, It’s Me" on the screen. It is a C pr
 - [string_name (ตัวแปร)](/Week%2001/02-Hello%2CIt’s%20Me./string_name.md)
 - [format_specifier (ตัวกำหนดรูปแบบ)](/Week%2001/02-Hello%2CIt’s%20Me./format_specifier.md)
 - [Escape Sequence (อักขระพิเศษ)](/Week%2001/02-Hello%2CIt’s%20Me./escape_sequence.md)
-- [glossary (คำศัพท์)](/Week%2001/02-Hello%2CIt’s%20Me./glossary2.md)
+- [glossary 2 (คำศัพท์)](/Week%2001/02-Hello%2CIt’s%20Me./glossary2.md)
