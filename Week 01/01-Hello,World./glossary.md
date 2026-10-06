@@ -36,6 +36,22 @@
 | Shell | โปรแกรมที่ใช้รับคำสั่ง จากผู้ใช้และสั่งงานระบบ
 | Other Status | สถานะอื่นๆ นอกเหนือจากการทำงานสำเร็จหรือข้อผิดพลาด
 
+- - -
+
+### 🧩 คำศัพท์ `int main(void)`
+| คำศัพท์ | ความหมาย |
+|------|-------|
+| Error Code | ค่าที่ใช้ระบุประเภทหรือสถานะของข้อผิดพลาด
+| Convention | รูปแบบหรือแนวทางที่นิยม ใช้ร่วมกันในการเขียนโปรแกรม
+| Generic Error | ข้อผิดพลาดทั่วไป ที่ไม่ได้ระบุสาเหตุเฉพาะ
+| File Not Found | ไม่พบไฟล์ที่โปรแกรมต้องการ
+| Invalid Input | ข้อมูลนำเข้าที่ไม่ถูกต้องหรือไม่ตรงตามที่โปรแกรมคาดไว้
+| Error Handling | การจัดการเมื่อโปรแกรมพบข้อผิดพลาด
+| Code Block | กลุ่มคำสั่งที่อยู่ภายใน `{...}`
+| Implicit | สิ่งที่ถูกกำหนดหรือเข้าใจ โดยอัตโนมัติโดยไม่ต้องระบุอย่างชัดเจน
+
+
+
 
 ## 📃 English Translation (ฉบับแปลภาษาอังกฤษ)
 
@@ -68,3 +84,27 @@
 | Success | A state indicating that the program has completed successfully.
 
 - - -
+
+### 🧩 คำศัพท์ `return 0;`
+| Term | Meaning |
+|------|-------|
+| Integer (int) | A data type used to store whole numbers.
+| Return Value | A value returned by a function.
+| Exit Status | A value used to indicate the status of a program when it terminates.
+| Shell | A program that receives commands from the user and interacts with the system.
+| Other Status | Other statuses besides successful execution or errors.
+
+- - -
+
+### 🧩 คำศัพท์ `int main(void)`
+| Term | Meaning |
+|------|-------|
+| Error Code | A value used to identify the type or status of an error.
+| Convention | A commonly used practice or standard in programming.
+| Generic Error | A general error that does not specify a particular cause.
+| File Not Found | A situation where the file required by the program cannot be found.
+| Invalid Input | Input that is incorrect or does not match what the program expects.
+| Error Handling | The process of handling errors when a program encounters them.
+| Code Block | A group of statements enclosed within `{...}`.
+| Implicit | Something that is determined or understood automatically without being explicitly specified.
+
