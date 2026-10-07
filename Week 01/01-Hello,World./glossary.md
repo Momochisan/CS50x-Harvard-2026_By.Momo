@@ -85,7 +85,7 @@
 
 - - -
 
-### 🧩 คำศัพท์ `return 0;`
+### 🧩 Vocabulary `return 0;`
 | Term | Meaning |
 |------|-------|
 | Integer (int) | A data type used to store whole numbers.
@@ -96,7 +96,7 @@
 
 - - -
 
-### 🧩 คำศัพท์ `int main(void)`
+### 🧩 Vocabulary `int main(void)`
 | Term | Meaning |
 |------|-------|
 | Error Code | A value used to identify the type or status of an error.
