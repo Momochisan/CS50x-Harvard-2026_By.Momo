@@ -1,4 +1,4 @@
-# 💳 Week 01 - Credit
+# 💳 Week 03 - Credit
 โปรแกรมนี้จะรับหมายเลขบัตรเครดิตจากผู้ใช้ ตรวจสอบความถูกต้องด้วย **Luhn’s Algorithm** และแยกประเภทบัตรเป็น **AMEX, MASTERCARD** หรือ **VISA** หากไม่ผ่านเงื่อนไข จะแสดงผลเป็น **INVALID**
 
 This program takes a credit card number as input, validates it using Luhn’s Algorithm, and identifies the card type as AMEX, MASTERCARD, or VISA. If the number fails validation, it displays INVALID.
