@@ -11,4 +11,4 @@ This program takes a height as input and prints a single-sided pyramid using `#`
 - [](/Week%2001)
 - [](/Week%2001)
 - [](/Week%2001)
-- [](/Week%2001)
+- [glossary (คำศัพท์)](/Week%2001)
