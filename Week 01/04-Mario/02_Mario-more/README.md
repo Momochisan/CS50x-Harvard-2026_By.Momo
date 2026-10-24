@@ -5,8 +5,9 @@ This program takes a height as input and prints a double-sided pyramid using # s
 
 
 ## 📚 เนื้อหา
-- [](/Week%2001)
-- [](/Week%2001)
-- [](/Week%2001)
-- [](/Week%2001)
+- [get_height](/Week%2001)
+- [validate_height](/Week%2001)
+- [print_spaces](/Week%2001)
+- [print_hashes](/Week%2001)
+- [print_gap](/Week%2001)
 - [glossary (คำศัพท์)](/Week%2001)
