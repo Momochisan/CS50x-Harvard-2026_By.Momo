@@ -9,4 +9,4 @@ This program takes a height as input and prints a double-sided pyramid using # s
 - [](/Week%2001)
 - [](/Week%2001)
 - [](/Week%2001)
-- [](/Week%2001)
+- [glossary (คำศัพท์)](/Week%2001)
